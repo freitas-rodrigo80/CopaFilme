@@ -1,0 +1,157 @@
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.deps.json
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.runtimeconfig.json
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.runtimeconfig.dev.json
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.dll
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.pdb
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.Views.dll
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.Views.pdb
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.csprojAssemblyReference.cache
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.csproj.CoreCompileInputs.cache
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorAssemblyInfo.cache
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorAssemblyInfo.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.AssemblyInfoInputs.cache
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.AssemblyInfo.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.TagHelpers.input.cache
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.TagHelpers.output.cache
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorCoreGenerate.cache
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorTargetAssemblyInfo.cache
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorTargetAssemblyInfo.cs
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.Views.pdb
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.dll
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.pdb
+C:/Users/marcelo.ribeiro/source/repos/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.csproj.CopyComplete
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.deps.json
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.runtimeconfig.json
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.runtimeconfig.dev.json
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.dll
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.pdb
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.Views.dll
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/bin/Debug/netcoreapp2.2/WebAppDemo.Views.pdb
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.csprojAssemblyReference.cache
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.csproj.CoreCompileInputs.cache
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorAssemblyInfo.cache
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorAssemblyInfo.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.AssemblyInfoInputs.cache
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.AssemblyInfo.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.TagHelpers.input.cache
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.TagHelpers.output.cache
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorCoreGenerate.cache
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorTargetAssemblyInfo.cache
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.RazorTargetAssemblyInfo.cs
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.Views.pdb
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.dll
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.pdb
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/WebAppDemo.csproj.CopyComplete
+/Users/rodrigo.fnunes/Projects/WebAppDemo/WebAppDemo/obj/Debug/netcoreapp2.2/Razor/Views/ResultadoFinal/ResultadoFinal.cshtml.g.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.deps.json
+C:\Nova pasta\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.runtimeconfig.json
+C:\Nova pasta\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.runtimeconfig.dev.json
+C:\Nova pasta\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.dll
+C:\Nova pasta\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.pdb
+C:\Nova pasta\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.Views.dll
+C:\Nova pasta\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.Views.pdb
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.csprojAssemblyReference.cache
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.csproj.CoreCompileInputs.cache
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorAssemblyInfo.cache
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorAssemblyInfo.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.AssemblyInfoInputs.cache
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.AssemblyInfo.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.TagHelpers.input.cache
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.TagHelpers.output.cache
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorCoreGenerate.cache
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\ResultadoFinal\ResultadoFinal.g.cshtml.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorTargetAssemblyInfo.cache
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorTargetAssemblyInfo.cs
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.Views.pdb
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.dll
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.pdb
+C:\Nova pasta\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.csproj.CopyComplete
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.deps.json
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.runtimeconfig.json
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.runtimeconfig.dev.json
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.dll
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.pdb
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.Views.dll
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.Views.pdb
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.csprojAssemblyReference.cache
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorAssemblyInfo.cache
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorAssemblyInfo.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.AssemblyInfoInputs.cache
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.AssemblyInfo.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.TagHelpers.input.cache
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.TagHelpers.output.cache
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorCoreGenerate.cache
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorTargetAssemblyInfo.cache
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorTargetAssemblyInfo.cs
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.Views.pdb
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.dll
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.pdb
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.csproj.CopyComplete
+C:\Users\55489\Downloads\CopaDeFilmes\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\ResultadoFinal.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.deps.json
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.runtimeconfig.json
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.runtimeconfig.dev.json
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.dll
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.pdb
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.Views.dll
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\bin\Debug\netcoreapp2.2\WebAppDemo.Views.pdb
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.csprojAssemblyReference.cache
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorAssemblyInfo.cache
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorAssemblyInfo.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.AssemblyInfoInputs.cache
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.AssemblyInfo.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.TagHelpers.input.cache
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.TagHelpers.output.cache
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorCoreGenerate.cache
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\ResultadoFinal.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorTargetAssemblyInfo.cache
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.RazorTargetAssemblyInfo.cs
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.Views.pdb
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.dll
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.pdb
+C:\Users\marcelo.ribeiro\Downloads\WebAppDemo\WebAppDemo\obj\Debug\netcoreapp2.2\WebAppDemo.csproj.CopyComplete

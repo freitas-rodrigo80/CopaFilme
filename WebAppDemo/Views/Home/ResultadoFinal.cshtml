@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Resultado Final";
+}
+
+
+<div class="container-fluid">
+    <div>@ViewBag.Teste</div>
+    <div class="card">
+        <div class="card-body">
+            <div class="card alert-dark ">
+                <div class="text-center m-4">
+                    <h3>Campeonato de Filmes</h3>
+                    <h1 class="display-4">Resultado Final</h1>
+                </div>
+                <div class="text-center mt-4">
+                    <p>
+                        Veja o resultado final do campeonato de filme de forma simples e rápida
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-12">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text"> <h1>1º</h1> </div>
+                    </div>
+                    <input type="text" class="form-control" id="inlineFormInputGroup" value="@ViewBag.Campeao" disabled>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-12">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text"> <h1>2º</h1> </div>
+                    </div>
+                    <input type="text" class="form-control" id="inlineFormInputGroup" value="@ViewBag.ViceCampeao" disabled>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

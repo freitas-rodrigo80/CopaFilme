@@ -1,0 +1,50 @@
+﻿@model Task<List<WebAppDemo.Models.Filme>>
+
+@{
+    ViewData["Title"] = "Copa de Filmes";
+}
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-body">
+            <div class="card alert-dark">
+                <div class="text-center m-4">
+                    <h3>Campeonato de Filmes</h3>
+                    <h1 class="display-4">Fase de Seleção</h1>
+                </div>
+                <div class="text-center mt-4">
+                    <p class="font-weight-bold">
+                        Selecione 8 filmes que vocês deseja que entem na competição e depois pressione o <br />
+                        botão Gerar Meu Campeonato para prosseguir.
+                    </p>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mt-4" id="ContaSelecionados">
+                    <p class="font-weight-bold">Selecionados <span id="total"> 0 </span>de 8 filmes</p>
+                </div>
+                <div class="col-md-6 mt-4">
+                    <button type="button" class="btn btn-outline-dark offset-8" onclick="gerarCampeonato()">Gerar Meu Campeonato</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-inline ">
+            @foreach (var item in Model.Result)
+            {
+                var img = "/Content/img/" + item.Id +".jpg";
+                <div class="col-sm-3">
+                    <div class="card m-1">
+                        <img class="card-img-top capa-filme"   src="@img" alt="@item.Titulo">
+                        <div class="card-body">
+                            <h6 class="card-title">@item.Titulo</h6>
+                            <p class="card-text">Ano: @item.Ano</p>
+                            <input type="checkbox" class="" name="checkbox" value="@Html.Raw(Json.Serialize(item)).ToString()">
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
